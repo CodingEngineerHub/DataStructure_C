@@ -1,2 +1,2 @@
-# DataStructure_C
-Data Structures in C programming language
+# DataStructure C/C++
+Data Structures in C and C++ programming language
